@@ -1,0 +1,26 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericVariables", "NumericVariables\NumericVariables.csproj", "{6698AE55-7EDC-421A-A2DF-3576BBD184AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6698AE55-7EDC-421A-A2DF-3576BBD184AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6698AE55-7EDC-421A-A2DF-3576BBD184AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6698AE55-7EDC-421A-A2DF-3576BBD184AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6698AE55-7EDC-421A-A2DF-3576BBD184AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED61654D-BAF2-4FEC-A1AF-593C70874317}
+	EndGlobalSection
+EndGlobal
+
+

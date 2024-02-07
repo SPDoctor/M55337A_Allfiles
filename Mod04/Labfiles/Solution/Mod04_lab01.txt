@@ -1,0 +1,24 @@
+Sample Pseudocode
+-----------------
+
+Add Courses to List (populateList)
+
+1.	Decide which courses to add
+2.	Create list to store course
+3.	Add course information to list
+
+
+Display Added Courses (displayList)
+
+1.	Get course list
+2.	for each course:
+3.	  Display course information
+
+
+Remove a Course from the List (removeListItem)
+
+1.	Get course list
+2.	Find course in course list that has given key
+3.	Remove course
+4.	Display confirmation of course removal
+
